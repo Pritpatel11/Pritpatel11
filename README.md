@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **js,react js,tailwind css**
 
-- 👯 I’m looking to collaborate on [ecommerce](https://bit.ly/ecommerce_front_end_design)
+- 👯 I’m looking to collaborate on [ecommerce](https://github.com/Pritpatel11/E-commerce-front-end)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pritpatel11](https://github.com/Pritpatel11)
 
