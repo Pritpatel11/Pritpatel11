@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritpatel11&label=Profile%20views&color=0e75b6&style=flat" alt="pritpatel11" /> </p>
 
-- 🔭 I’m currently working on [online book storte](https://github.com/Pritpatel11/online-book-store)
+- 🔭 I’m currently working on []()
 
 - 🌱 I’m currently learning **js,react js,tailwind css**
 
