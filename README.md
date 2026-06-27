@@ -93,7 +93,7 @@ Gemini AI-powered OCR for regional land records (Index-II, 7/12 documents). Real
 
 `React` `Node.js` `MongoDB` `Gemini AI` `Framer Motion`
 
-[![Source](https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white)]([https://github.com/Pritpatel11](https://github.com/Pritpatel11/AI-Based-Smart-Land-Document-Analysis-Registry-Assistant-System.))
+[![Source](https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Pritpatel11)
 
 </td>
 </tr>
