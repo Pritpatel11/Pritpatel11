@@ -1,67 +1,159 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20👋,%20I'm%20Prit%20Patel&fontSize=50&fontAlignY=38&desc=Passionate%20Frontend%20Developer%20from%20India&descAlignY=55&descAlign=50" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=1&pause=10000000&color=00F2FF&center=true&vCenter=true&repeat=false&width=750&height=60&lines=PRIT+PATEL+%2F%2F+CREATIVE+FRONTEND+ENGINEER" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3200&pause=900&color=64748B&center=true&vCenter=true&width=750&lines=Building+immersive%2C+motion-rich+interfaces+that+move+and+convert.;React+%C2%B7+GSAP+%C2%B7+Framer+Motion+%C2%B7+Gemini+AI+%C2%B7+Node.js;India-based+%E2%80%94+open+to+internships+%26+freelance+work." />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/%E2%97%88_PORTFOLIO-pritdev.netlify.app-00f2ff?style=flat-square&labelColor=0D1117)](https://pritdev.netlify.app/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritpatel1177/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pritpatel1179@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Pritpatel11)
+&nbsp;
+![Views](https://komarev.com/ghpvc/?username=pritpatel11&color=00f2ff&style=flat-square&label=views)
+
 </div>
+
+---
+
+## `> whoami`
+
+Frontend engineer who builds interfaces that feel alive — scroll-driven narratives, AI-integrated platforms, and production systems for real businesses. Not portfolio toys.
+
+- 🧾 &nbsp;Building **BillGenie ERP** — AI manufacturing platform running on my own company's operations (MERN + Gemini AI)
+- 🏠 &nbsp;Shipped **LandAssist AI** — full-stack AI land registry with OCR, fraud detection, and real-time legal guidance
+- ⚡ &nbsp;Built production website for **Dev Corporation** — a live 11kV HT electrical manufacturer supplying UGVCL & PGVCL
+- 🎯 &nbsp;Targeting **Frontend Developer internships** — Ahmedabad · Remote
+
+---
+
+## `> stack --list`
+
+**UI & Motion**
+
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6)
+
+**Animation & Experience**
+
+![GSAP](https://img.shields.io/badge/GSAP-0D1117?style=flat-square&logo=greensock&logoColor=88CE02)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0D1117?style=flat-square&logo=framer&logoColor=00F2FF)
+![ScrollTrigger](https://img.shields.io/badge/ScrollTrigger-0D1117?style=flat-square&logo=greensock&logoColor=88CE02)
+![Locomotive Scroll](https://img.shields.io/badge/Locomotive_Scroll-0D1117?style=flat-square&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiMwMGYyZmYiLz48L3N2Zz4=)
+
+**Backend & AI**
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=4ADE80)
+![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=4ADE80)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-0D1117?style=flat-square&logo=google&logoColor=00F2FF)
+![n8n](https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=FF6C37)
+
+---
+
+## `> work --selected`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ &nbsp;PRIT_MODERN.DEV
+**Personal Portfolio — Cyberpunk Edition**
+
+Velocity-based custom cursor with particle trails. GSAP + Framer Motion animation system. Terminal-style contact interface wired to Google Sheets via Apps Script for zero-backend lead capture.
+
+`React` `GSAP` `Framer Motion` `Tailwind CSS` `Vite`
+
+[![Live](https://img.shields.io/badge/Live_Demo-00f2ff?style=flat-square&labelColor=0D1117)](https://pritdev.netlify.app/)
+[![Source](https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Pritpatel11)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ &nbsp;LandAssist AI
+**AI Land Registry Platform**
+
+Gemini AI-powered OCR for regional land records (Index-II, 7/12 documents). Real-time fraud and duplicate ownership detection engine. Persistent split-screen AI assistant for legal workflow guidance.
+
+`React` `Node.js` `MongoDB` `Gemini AI` `Framer Motion`
+
+[![Source](https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Pritpatel11)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ &nbsp;Modern Creative Agency
+**Scroll-Driven Immersive Landing Page**
+
+Built to explore the boundary between motion design and information architecture. GSAP ScrollTrigger sequences + Locomotive Scroll kinetic scrolling — 100% cross-browser, mobile-first.
+
+`HTML5` `CSS3` `GSAP` `ScrollTrigger` `Locomotive Scroll`
+
+[![Live](https://img.shields.io/badge/Live_Demo-00f2ff?style=flat-square&labelColor=0D1117)](http://modern-creative-agency.vercel.app/)
+[![Source](https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Pritpatel11)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ &nbsp;Duo Studio Clone
+**Boutique Scroll Experience**
+
+Custom cursor with hover-preview effects on project tiles. Orchestrated animation on navigation open/close. Optimized for background video playback without sacrificing load performance.
+
+`HTML5` `CSS3` `GSAP` `Locomotive Scroll`
+
+[![Live](https://img.shields.io/badge/Live_Demo-00f2ff?style=flat-square&labelColor=0D1117)](https://duo-studio-landing.netlify.app/)
+[![Source](https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Pritpatel11)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  
+</td>
+</tr>
+</table>
+
+---
+
+## `> git stats`
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pritpatel11&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="pritpatel11" />
-  <a href="https://www.linkedin.com/in/prit-patel-ab069a288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:pritpatel1179@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://instagram.com/pritpatel1177"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://github.com/Pritpatel11"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pritpatel11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&title_color=00f2ff&icon_color=00f2ff&include_all_commits=true" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritpatel11&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=00f2ff" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pritpatel11&theme=tokyonight&hide_border=true&ring=00f2ff&fire=00f2ff&currStreakLabel=00f2ff" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pritpatel11&theme=tokyo-night&hide_border=true&color=00f2ff&line=00f2ff&point=ffffff&area=true" />
+
 </div>
-
-<br />
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on building awesome web applications.
-- 🌱 I’m currently learning deeper into **React JS, Tailwind CSS, & Modern Javascript**.
-- 📄 Check out my [Experiences & Resume](https://drive.google.com/drive/folders/1qcU4LfwH3bPL51dF8xM6a_3ZP5IqLzOu?usp=sharing).
-- 📫 How to reach me: **pritpatel1179@gmail.com**
-- ⚡ Fun fact: **I think I am Funny! 😄**
-
-<br />
-
-### 🛠️ Languages & Tools
-
-**Frontend Development:**<br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></a>
-<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
-<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
-<a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
-<a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
-<a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
-<a href="https://greensock.com/scrolltrigger/"><img src="https://img.shields.io/badge/GSAP_ScrollTrigger-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="ScrollTrigger" /></a>
-
-**Backend & Database:**<br>
-<a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
-<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
-<a href="https://www.oracle.com/"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" /></a>
-
-**Tools & Others:**<br>
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
-<a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /></a>
-
-<br />
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritpatel11&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritpatel11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritpatel11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<br />
 
 ---
 
 <div align="center">
-  <i>Let's connect and build something awesome together! 🚀</i>
+<code>Open to Frontend Developer internships &nbsp;·&nbsp; pritpatel1179@gmail.com</code>
 </div>
